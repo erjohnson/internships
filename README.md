@@ -11,7 +11,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Droplr](#droplr)
 * [Energy Storage Systems](#energy-storage-systems)
 * [EyeCue Lab LLC](#eyecue-lab)
-* Factor.io
+* [Factor.io](#factorio)
 * Impact Dialing
 * Lucky Steps
 * Marty Nelson
@@ -237,3 +237,33 @@ Located in
 ### What interns look like
 
 > EyeCue is interested in bringing in 2-3 interns, one of which is focused on front-end development and two-three that are focused on back-end development. Interns should be entrepreneur-focused, with a desire to participate and collaborate with the EyeCue team and it’s clients.
+
+
+## Title
+
+[Website](https://factor.io/)
+
+Located in Portland, OR
+
+> Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* Ruby
+* Ruby on Rails
+* [Sinatra](http://www.sinatrarb.com/)
+* [Sidekiq](http://sidekiq.org/)
+* [Docker](https://www.docker.com/)
+* [Redis](http://redis.io/)
+* [MongoDB](http://www.mongodb.org/)
+
+### What interns will work on
+
+> With our deep stack the internship can be focused on front or back-end development. In the spring, interns worked on these projects: (1) Improve integration with Stripe for billing, (2) Improve the organization/user model, (3) Improve the user experience for managing credentials inFactor.io.
+
+### What interns look like
+
+> Humans.
