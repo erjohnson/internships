@@ -9,7 +9,7 @@ Information on internships offered at Epicodus Summer 2014
 * [BlkDot](#blkdot)
 * [Cinder](#cinder)
 * [Droplr](#droplr)
-* Energy Storage Systems
+* [Energy Storage Systems](#energy-storage-systems)
 * EyeCue Lab LLC
 * Factor.io
 * Impact Dialing
@@ -154,7 +154,7 @@ Interns will work on an internal Inventory Management System for the company.
 
 Located in Portland, OR
 
-> About them
+> Droplr is a product-driven startup building the best way to share what’s on your screen. We are changing the way creative teams communicate.
 
 ### The stack
 
@@ -180,3 +180,28 @@ Located in Portland, OR
 ### What interns look like
 
 > We’re looking for aspiring front-end devs who are opinionated about their craft. They should care about clean code. They should pay attention to details. They should be hungry to learn the ins and outs of working in a tech startup. They should cry inside if their code has bugs.
+
+
+## Energy Storage Systems
+
+[Website](http://www.energystoragesystems.com/)
+
+Located in Portland, OR
+
+> We develop products to improve the future of power.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* Ruby
+* Ruby on Rails
+
+### What interns will work on
+
+* Design front and back ends of a customer web portal to display information about system status, system performance, energy savings and cost savings gained by using the ESS energy management system.
+
+### What interns look like
+
+> We are looking for front and back end developers who are self-starters capable of absorbing the entirety of a projects goals and willing to tackle them from the ground up.  You should be strong with Ruby, Rails, HTML5/CSS and JavaScript.  You should have a solid grasp of what is necessary to get a web site up and running from scratch and the skills to make sure that the web site is scalable and flexible.
