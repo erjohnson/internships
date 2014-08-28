@@ -15,7 +15,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Impact Dialing](#impact-dialing)
 * [Lucky Steps](#lucky-steps)
 * [Marty Nelson](#marty-nelson)
-* Metal Toad
+* [Metal Toad](#metal-toad)
 * Notch8
 * NTEN
 * Nutmeg
@@ -356,3 +356,43 @@ Located in Portland, OR
 ### What interns look like
 
 > You should enjoy thinking about and designing user experiences, but you don't need to be a designer (though that's good too). Creativity and empathy valued. Also, having some basic math aptitude is helpful for working through UI/UX effects. Diversity valued and women in tech are especially encouraged.
+
+
+## Metal Toad
+
+[Website](http://www.metaltoad.com/)
+
+Located in
+
+> Metal Toad provides enterprise technical consulting and implementation.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [Angular.js](https://angularjs.org/)
+* Canvas
+* Ruby
+* [Capistrano](http://capistranorb.com/)
+* [PHP](http://php.net/)
+* [Drupal](https://www.drupal.org/)
+* [Python](https://www.python.org/)
+* [Django](https://www.djangoproject.com/)
+* [Puppet Enterprise](http://puppetlabs.com/puppet/puppet-enterprise)
+* [Jira](https://www.atlassian.com/software/jira)
+
+
+### What interns will work on
+
+* Pair with a senior member of the development team who will be your mentor.
+* Learn new skills and best practices by working on client sites.
+* Participate in client meetings, scrum meetings and general shadowing of our Senior Developers, Strategists and Project Managers.
+* Learn the ins and outs of what happens daily in agency life.
+* Work on and build web applications ranging from internal projects to large deployments for publicly traded companies. 
+
+
+### What interns look like
+
+> ...
+
