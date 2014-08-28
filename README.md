@@ -14,7 +14,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Factor.io](#factorio)
 * [Impact Dialing](#impact-dialing)
 * [Lucky Steps](#lucky-steps)
-* Marty Nelson
+* [Marty Nelson](#marty-nelson)
 * Metal Toad
 * Notch8
 * NTEN
@@ -329,3 +329,30 @@ Located in Portland, OR
 > **Communication:**
 > * Can respectfully articulate what they (resources or assistance) when feeling stuck
 > * Can give / receive constructive feedback around both positive efforts
+
+
+## Marty Nelson
+
+[Website](http://softwaregreenhouses.com/)
+
+Located in Portland, OR
+
+> I work with startups to create their initial product offering (MVP) in the web and mobile space.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [Ractive.js](http://www.ractivejs.org/)
+* [PhoneGap](http://phonegap.com/)
+* [Cordova](http://cordova.apache.org/)
+
+### What interns will work on
+
+* Work on both client and open source projects to gain in-depth experience in RactiveJS, HTML5, CSS, and Javascript - in the browser and wrapped as mobile apps (PhoneGap/Cordova).
+* Pair-programming on important projects.
+
+### What interns look like
+
+> You should enjoy thinking about and designing user experiences, but you don't need to be a designer (though that's good too). Creativity and empathy valued. Also, having some basic math aptitude is helpful for working through UI/UX effects. Diversity valued and women in tech are especially encouraged.
