@@ -362,7 +362,7 @@ Located in Portland, OR
 
 [Website](http://www.metaltoad.com/)
 
-Located in
+Located in Portland, OR
 
 > Metal Toad provides enterprise technical consulting and implementation.
 
