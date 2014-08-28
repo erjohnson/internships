@@ -152,7 +152,7 @@ Interns will work on an internal Inventory Management System for the company.
 
 [Website](https://droplr.com/hello)
 
-Located in
+Located in Portland, OR
 
 > About them
 
@@ -173,7 +173,7 @@ Located in
 
 > Our website is our main marketing channel and we’re looking for someone to own it. This will mean you need to be familiar with Ruby on Rails best practices, REST APIs, JQuery, Backbone.js, CSS3, HTML5, git Capistrano, browser compatibility, responsive layouts, etc. It needs to scale, captain!
 
-**Objective-C
+**Objective-C**
 
 > We bleed Apple. Our flagship platforms are Mac and iOS. We always need help here. Ideal candidates will be familiar with Objective-C, iOS and Cocoa APIS, Apple Docs, & HockeyApp or Testflight.
 
