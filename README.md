@@ -8,7 +8,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Advisicon](#advisicon)
 * [BlkDot](#blkdot)
 * [Cinder](#cinder)
-* Droplr
+* [Droplr](#droplr)
 * Energy Storage Systems
 * EyeCue Lab LLC
 * Factor.io
@@ -146,3 +146,37 @@ Interns will work on an internal Inventory Management System for the company.
 ### What interns look like
 
 > We’re looking for aspiring front and back-end developers with a passion for user-friendly tools and desire to understand how your product will be used in addition to what it needs to do. You should be strong with Ruby, Rails, HTML5/CSS3, JavaScript and/or database development. This project will be used directly in a fast paced, production environment so well written, well tested, and easily maintained code is critical to the success of this effort.
+
+
+## Droplr
+
+[Website](https://droplr.com/hello)
+
+Located in
+
+> About them
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [Backbone](http://backbonejs.org/)
+* jQuery
+* Ruby
+* Ruby on Rails
+* [Objective-C](http://en.wikipedia.org/wiki/Objective-C)
+
+### What interns will work on
+
+**Rails Front-end**
+
+> Our website is our main marketing channel and we’re looking for someone to own it. This will mean you need to be familiar with Ruby on Rails best practices, REST APIs, JQuery, Backbone.js, CSS3, HTML5, git Capistrano, browser compatibility, responsive layouts, etc. It needs to scale, captain!
+
+**Objective-C
+
+> We bleed Apple. Our flagship platforms are Mac and iOS. We always need help here. Ideal candidates will be familiar with Objective-C, iOS and Cocoa APIS, Apple Docs, & HockeyApp or Testflight.
+
+### What interns look like
+
+> We’re looking for aspiring front-end devs who are opinionated about their craft. They should care about clean code. They should pay attention to details. They should be hungry to learn the ins and outs of working in a tech startup. They should cry inside if their code has bugs.
