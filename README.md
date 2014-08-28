@@ -13,7 +13,7 @@ Information on internships offered at Epicodus Summer 2014
 * [EyeCue Lab LLC](#eyecue-lab)
 * [Factor.io](#factorio)
 * [Impact Dialing](#impact-dialing)
-* Lucky Steps
+* [Lucky Steps](#lucky-steps)
 * Marty Nelson
 * Metal Toad
 * Notch8
@@ -298,3 +298,34 @@ Located in Portland, OR
 > We also have a project that involves statistics and analyzing a large database of historical data to optimize and algorithm. We'd love to get an intern who'd be excited to tackle this problem.
 
 
+## Lucky Steps
+
+[Website](http://www.luckysteps.org/)
+
+Located in Portland, OR
+
+> LuckySteps is a corporate wellness SaaS to motivate, track, and reward exercise using a fun, social game.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* jQuery
+
+### What interns will work on
+
+* Build the client signup system: registration pages, onboarding pages.
+* Develop user engagement statistics reports.
+* Build an administration portal.
+* Work with alpha testers to gain feedback and iterate over features.
+
+### What interns look like
+
+> **Attitude:**
+> * Enjoys the challenge of being given a project with clear requirements and working creatively to produce a solution that meets those requirements.
+> * Stays positive throughout the iterative process even when things go awry (they always do!)
+
+> **Communication:**
+> * Can respectfully articulate what they (resources or assistance) when feeling stuck
+> * Can give / receive constructive feedback around both positive efforts
