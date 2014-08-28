@@ -7,7 +7,7 @@ Information on internships offered at Epicodus Summer 2014
 
 * [Advisicon](#advisicon)
 * [BlkDot](#blkdot)
-* Cinder
+* [Cinder](#cinder)
 * Droplr
 * Energy Storage Systems
 * EyeCue Lab LLC
@@ -107,3 +107,42 @@ Located in Portland, OR
 > We’re looking for aspiring front-end / back-end developers who can help us realize our product vision and have a good time doing it. Many of the things you’ll be working on are in various states of realization; you’ll likely get to help shape how they ultimately work in addition to just implementing them.
 
 >You should be strong with PHP, HTML5/CSS3, JavaScript and jQuery and be able to see a feature all the way through implementation from the bottom up. Experience with Twitter, Tumblr, Facebook, Google+ and Pinterest a major plus. Bonus points if you have an Etsy store :)
+
+
+## Cinder
+
+[Website](http://cindersolutions.com/)
+
+Located in Beaverton, OR
+
+> Cinder is an engineering company that provides a wide variety of services to our customers throughout the high tech industry.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* Ruby
+* Rails
+* PostgreSQL
+
+### What interns will work on
+
+Interns will work on an internal Inventory Management System for the company.
+
+**Front End**
+
+* Design user-friendly site for Internal Employees.
+* Develop front-end that enables users to check in / out test equipment with Bar Scanning capabilities.
+* Develop component that allows Admins to add / delete /modify test equipment.
+* Develop reporting schema for Admin and Management that shows test equipment status.
+
+**Back End**
+
+* Design and implement PostgreSQL database for Inventory Management System.
+* Implement backup system for database.
+* Analyze database performance
+
+### What interns look like
+
+> We’re looking for aspiring front and back-end developers with a passion for user-friendly tools and desire to understand how your product will be used in addition to what it needs to do. You should be strong with Ruby, Rails, HTML5/CSS3, JavaScript and/or database development. This project will be used directly in a fast paced, production environment so well written, well tested, and easily maintained code is critical to the success of this effort.
