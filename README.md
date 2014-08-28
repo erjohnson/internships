@@ -12,7 +12,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Energy Storage Systems](#energy-storage-systems)
 * [EyeCue Lab LLC](#eyecue-lab)
 * [Factor.io](#factorio)
-* Impact Dialing
+* [Impact Dialing](#impact-dialing)
 * Lucky Steps
 * Marty Nelson
 * Metal Toad
@@ -267,3 +267,34 @@ Located in Portland, OR
 ### What interns look like
 
 > Humans.
+
+
+## Impact Dialing
+
+[Website](http://www.impactdialing.com/)
+
+Located in Portland, OR
+
+> Impact Dialing makes it easy for political campaigns, non-profits, and businesses to make lots of phone calls.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* Ruby
+* Ruby on Rails
+
+### What interns will work on
+
+* Build features like searching, displaying better errors messages, and adding pagination to long reports.
+* Compile statistics.
+* Analyze a large database of historical data. 
+
+### What interns look like
+
+> Since we're so small, interns at Impact Dialing need to be able to do everything from building on our Rails backend to working with JavaScript in our frontend to styling the app with CSS. We have a decent codebase but plenty of technical debt, so an appreciation for pushing through difficult problems is a must!
+
+> We also have a project that involves statistics and analyzing a large database of historical data to optimize and algorithm. We'd love to get an intern who'd be excited to tackle this problem.
+
+
