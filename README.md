@@ -10,7 +10,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Cinder](#cinder)
 * [Droplr](#droplr)
 * [Energy Storage Systems](#energy-storage-systems)
-* EyeCue Lab LLC
+* [EyeCue Lab LLC](#eyecue-lab)
 * Factor.io
 * Impact Dialing
 * Lucky Steps
@@ -205,3 +205,35 @@ Located in Portland, OR
 ### What interns look like
 
 > We are looking for front and back end developers who are self-starters capable of absorbing the entirety of a projects goals and willing to tackle them from the ground up.  You should be strong with Ruby, Rails, HTML5/CSS and JavaScript.  You should have a solid grasp of what is necessary to get a web site up and running from scratch and the skills to make sure that the web site is scalable and flexible.
+
+
+## EyeCue Lab
+
+[Website](http://www.eyecuelab.com/)
+
+Located in
+
+> EyeCue Lab is a professional services incubator focused on providing technical and business expertise to startups.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* jQuery
+* [Angular.js](https://angularjs.org/)
+* [Backbone](http://backbonejs.org/)
+* [Node.js](http://nodejs.org/)
+* Ruby
+* Ruby on Rails
+* [Objective-C](http://en.wikipedia.org/wiki/Objective-C)
+* [MongoDB](http://www.mongodb.org/)
+* [MySQL](http://www.mysql.com/)
+
+### What interns will work on
+
+* Work with the EyeCue Product Teams, on both client and internal projects.
+
+### What interns look like
+
+> EyeCue is interested in bringing in 2-3 interns, one of which is focused on front-end development and two-three that are focused on back-end development. Interns should be entrepreneur-focused, with a desire to participate and collaborate with the EyeCue team and it’s clients.
