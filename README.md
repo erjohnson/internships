@@ -16,7 +16,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Lucky Steps](#lucky-steps)
 * [Marty Nelson](#marty-nelson)
 * [Metal Toad](#metal-toad)
-* Notch8
+* [Notch8](#notch8)
 * NTEN
 * Nutmeg
 * Orchestrate
@@ -69,7 +69,7 @@ Located in Vancouver, WA
 
 ### What interns look like
 
-> An ideal intern is smart, independent, and eager to learn. Interns don’t need to know the exact languages we develop in before they arrive (although that would be a bonus), but they should be familiar with the MVC design pattern. Ideal interns will understand the principles behind strongly typed, functional, and object-oriented development.  
+> An ideal intern is smart, independent, and eager to learn. Interns don’t need to know the exact languages we develop in before they arrive (although that would be a bonus), but they should be familiar with the MVC design pattern. Ideal interns will understand the principles behind strongly typed, functional, and object-oriented development.
 
 > Interns should display a passion for making awesome things and a knack for making them better through iteration, user testing, and refactoring. Elegance is idolized, but functional is realistic.
 
@@ -289,7 +289,7 @@ Located in Portland, OR
 
 * Build features like searching, displaying better errors messages, and adding pagination to long reports.
 * Compile statistics.
-* Analyze a large database of historical data. 
+* Analyze a large database of historical data.
 
 ### What interns look like
 
@@ -389,10 +389,43 @@ Located in Portland, OR
 * Learn new skills and best practices by working on client sites.
 * Participate in client meetings, scrum meetings and general shadowing of our Senior Developers, Strategists and Project Managers.
 * Learn the ins and outs of what happens daily in agency life.
-* Work on and build web applications ranging from internal projects to large deployments for publicly traded companies. 
+* Work on and build web applications ranging from internal projects to large deployments for publicly traded companies.
 
 
 ### What interns look like
 
 > ...
+
+
+## Notch8
+
+[Website](http://www.notch8.com/)
+
+Located in Portland, OR
+
+> Notch8 is a boutique software development shop based in Portland and San Diego.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* Ruby
+* Ruby on Rails
+
+
+### What interns will work on
+
+* Work on a project for [House of Sound](http://houseofsound.org/), a non-profit underground internet radio station.
+* Create a more personalized user experience for DJs and listners.
+* Build new features for back end, front end, and mobile components.
+* Collaborate directly with project stakeholders.
+* Create a talk inspired from your work at Notch8 to share your knowledge and gain confidence speaking in front of your new peers among the Portland Tech community.
+
+
+### What interns look like
+
+> If you are excited by TDD, pair programming, community engagement, and working collaboratively with co-workers and business owners, then we look forward to meeting you.
+
+
 
