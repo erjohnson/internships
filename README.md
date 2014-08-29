@@ -17,8 +17,8 @@ Information on internships offered at Epicodus Summer 2014
 * [Marty Nelson](#marty-nelson)
 * [Metal Toad](#metal-toad)
 * [Notch8](#notch8)
-* NTEN
-* Nutmeg
+* [NTEN](#nten)
+* [Nutmeg](#nutmeg)
 * Orchestrate
 * Outdoor Project
 * Paydici
@@ -429,3 +429,43 @@ Located in Portland, OR
 
 
 
+## NTEN
+
+[Website](http://www.nten.org/)
+
+Located in
+
+> NTEN is a membership organization for people who work in technology with a nonprofit slant.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [PHP](http://php.net/)
+* [WordPress](http://wordpress.org/)
+
+
+### What interns will work on
+
+* Build an interim conference website.
+
+> **Interim website wishlist**
+> * Exhibitor application – including basic info, booth choice, exhibitor sponsor type
+> * Once application is accepted – a login for the exhibitor
+> * View Invoice (pdf)• View Memorandum of Understanding (pdf)
+> * View and digitally sign contract (agree to terms)
+> * View Paid/Unpaid status (this can be switched manually by NTEN staff)
+> * Add exhibitor staff to be registered at conference (depending on package selected a certain number of registrations will be complimentary)
+> * Upload marketing assets (logo, company description, etc) for program book
+> * Other artwork /assets(depending on sponsorship package)
+> * Be a central place for essential information (addresses, deadlines, contact info)
+> * Deadline calendar – emailed reminders if tasks aren’t completed
+> * Integration with other systems (netForum, sched.org)
+> * History of correspondence – all the messaging goes through this app?
+> *  NTEN user-defined fields (many packages are on-offs and requirements are different)
+
+
+### What interns look like
+
+> We’re looking for a team that is happy to work independently to get a working product out the door. This is a nice, small-ish project you can own! We don’t have any true in-house developers but we do have a whole community you could lean on for help. You will need to be comfortable finding ways to answer your own technical questions.
