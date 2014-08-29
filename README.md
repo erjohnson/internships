@@ -736,9 +736,9 @@ Located in Portland, OR
 
 ## Solid
 
-[Website]()
+[Website](http://www.thinksolid.com/)
 
-Located in
+Located in Portland, OR
 
 > Solid builds apps for creative companies.
 
@@ -748,6 +748,7 @@ Located in
 * CSS3
 * Javascript
 * [Node.js](http://nodejs.org/)
+* Native mobile
 
 
 ### What interns will work on
