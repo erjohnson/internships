@@ -25,7 +25,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Read the Docs](#read-the-docs)
 * [Revelation](#revelation)
 * [SBI Software](#sbi-software)
-* Scratch-It
+* [Scratch-It](#scratch-it)
 * Solid
 * SpendWell
 * Stack
@@ -702,7 +702,33 @@ Located in Portland, OR
 
 ### What interns look like
 
-> We would be looking for the potential interns to work alongside our web development team and bring what they are learning to the table and also learn from our experienced and talented web development team. We need this to be a committed group that will show up when they say they will and commit to making themselves a part of the team and not simply wait to be asked to do things; we need self starters who can take minimal direction and makes something out of it. That being said, we understand this is an internship and will do all we can to make the interns feel welcome and engaged.
+> We would be looking for the potential interns to work alongside our web development team and bring what they are learning to the table and also learn from our experienced and talented web development team.
+
+> We need this to be a committed group that will show up when they say they will and commit to making themselves a part of the team and not simply wait to be asked to do things; we need self starters who can take minimal direction and makes something out of it. That being said, we understand this is an internship and will do all we can to make the interns feel welcome and engaged.
+
+
+## Scratch-it
+
+[Website]()
+
+Located in
+
+> about.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* Ruby
+
+
+### What interns will work on
+
+
+### What interns look like
+
+> ...
 
 
 
