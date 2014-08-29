@@ -31,14 +31,14 @@ Information on internships offered at Epicodus Summer 2014
 * [Stack](#stack)
 * [Strategic Marketing](#strategic-marketing)
 * [Switchboard](#switchboard)
-* Tech 2000
-* The Program
-* Thetus
-* Top Level Design
-* Trial Guides
-* WebLively
-* Windsor
-* WorldState
+* [Tech 2000](#tech-2000)
+* [The Program](#the-program)
+* [Thetus](#thetus)
+* [Top Level Design](#top-level-design)
+* [Trial Guides](#trial-guides)
+* [WebLively](#weblively)
+* [Windsor](#windsor)
+* [WorldState](#worldstate)
 
 
 ## Advisicon
@@ -887,7 +887,92 @@ Located in Portland, OR
 > ...
 
 
+## Tech 2000
 
+[Website](http://t2000inc.com/)
+
+Remote Work
+
+> [APPNETIC](http://appnetic.com/) is a business to business SaaS mobile sales enablement software.
+
+### The stack
+
+* HTML5
+* [Haml](http://haml.info/)
+* CSS3
+* Sass
+* Javascript
+* jQuery
+* Ruby
+* Ruby on Rails
+* PostgreSQL
+* [Redis](http://redis.io/)
+* [Sidekiq](http://sidekiq.org/)
+* [Codeship](https://www.codeship.io/)
+* [Travis CI](https://travis-ci.org/)
+* Heroku
+
+
+### What interns will work on
+
+> Interns can expect to increase their knowledge and skills in many (if not all) of the following:
+
+> Rails 4, Ruby 2x, Postgresql, Heroku, jQuery, basic API development and maintenance, Git, Haml, Sass, Rspec, Test Driven Development, Redis (specifically Sidekiq).
+
+> Continuous Integration experience, especially Codeship or Travis CI
+
+> Open source experience, preferably in the Ruby community
+
+> Experience with caching, specifically strategies such as Russian Doll Caching/cache digests.
+
+
+### What interns look like
+
+> The Rails Intern must be committed to excellence, naturally quick-thinking, resourceful, analytical, engaging, passionate, confident, smart, and enthusiastic about the work he or she is doing. We are an extremely collaborative team, so there will be plenty of guidance and direction provided for the Interns, but this will be a remote opportunity, interacting with team members all over the world, so the Intern will need to be able to maintain focus in an independent environment.
+
+
+## The Program
+
+[Website](http://www.theprogrampdx.com/)
+
+Located in Portland, OR
+
+> The Program designs, develops and delivers digital solutions to create meaningful experiences that catapult brands well into the digita
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* Ruby
+* Ruby on Rails
+* [JRuby](http://jruby.org/)
+* [Objective-C](http://en.wikipedia.org/wiki/Objective-C)
+* [C++](http://en.wikipedia.org/wiki/C%2B%2B)
+* [Clojure](http://clojure.org/)
+* [Erlang](http://www.erlang.org/)
+* [Java](http://en.wikipedia.org/wiki/Java_(programming_language))
+* [Processing](http://www.processing.org/)
+
+
+### What interns will work on
+
+* Shadow and work beside experienced team members.
+* Work directly on jobs with our current and future client list.
+
+> The departments that interns can apply for are:
+
+> * Brand/Digital Strategy
+> * User Experience and User Interface Design
+> * Software Engineering
+> * Web Application Engineering
+> * Production and Project Management
+
+
+
+### What interns look like
+
+> ...
 
 
 
