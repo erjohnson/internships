@@ -709,11 +709,11 @@ Located in Portland, OR
 
 ## Scratch-it
 
-[Website]()
+[Website](https://www.scratch-it.com/)
 
-Located in
+Located in Portland, OR
 
-> about.
+> Scratch-it uses gaming mechanics to deliver a customer controlled advertising experience that is fun and occupies precious moments of time to create strong impressions through interaction.
 
 ### The stack
 
@@ -721,14 +721,17 @@ Located in
 * CSS3
 * Javascript
 * Ruby
+* Ruby on Rails
 
 
 ### What interns will work on
 
+* Build a data analytics tool in Ruby on Rails to highlight the results of marketing efforts and performance of multinational and Fortune 500 brands using Scratch-it.
+
 
 ### What interns look like
 
-> ...
+> Scratch-it is looking for software developer Interns interested getting hands on experience working with agile techniques and paired progra
 
 
 
