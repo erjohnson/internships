@@ -1107,4 +1107,39 @@ Located in Portland, OR
 > We need back-end developers who are comfortable with a wide variety of technologies and who are interested walking away with a batch of new Open Source contributions to Spree and a functioning business system responsible for daily operations under their belts.
 
 
+## Unigo
 
+[Website](https://www.unigo.com/)
+
+Located in ?
+
+> Unigo helps students identify colleges that match their ideal learning style, course work, and career goals.
+
+### The stack
+
+* HTML5
+* CSS3
+* LESS
+* Sass
+* Javascript
+* [PHP](http://php.net/)
+* [Drupal](https://www.drupal.org/)
+* [WordPress](http://wordpress.org/)
+
+
+### What interns will work on
+
+> Duties will consist primarily of front-end development with an emphasis on interaction design; a strong focus on user experience is critical. We’re looking to for a linchpin to help evolve our award-winning designs into functional, user-friendly tools for the web, mobile devices and beyon
+
+
+### What interns look like
+
+> We are seeking a tenacious web developer intern with the chops to help our team code, launch, and maintain our various websites and online applications. The successful candidate will be a collaborative force in creating engaging and elegant interactive experiences for our clients. An ideal intern will have:
+
+> * Familiarity working in MVC frameworks.
+> * Experience using a Javascript MVC Library.
+> * Familiarity with LESS or SASS preprocessing.
+> * Experience with open source CMS packages (WordPress, Drupal, etc.)
+> * Working knowledge of various email marketing platforms
+> * Experience with version control systems such as SVN, CVS and GIT
+> * Knowledge of analytics code and implemen
