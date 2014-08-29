@@ -28,7 +28,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Scratch-It](#scratch-it)
 * [Solid](#solid)
 * [SpendWell Health](#spendwell-health)
-* Stack
+* [Stack](#stack)
 * Strategic Marketing
 * Switchboard
 * Tech 2000
@@ -796,7 +796,38 @@ Located in Portland, OR
 > ...
 
 
+## Stack
 
+Cannot Find Site.
+
+Located in Portland, OR
+
+> Stack Development is a team of developers and designers in Portland, Oregon. We specialize in creating elegant solutions to complicated problems.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [Ember.js](http://emberjs.com/)
+* Ruby
+* Ruby on Rails
+* PostreSQL
+* [MySQL](http://www.mysql.com/)
+
+
+### What interns will work on
+
+> **Backend**
+> We spend the majority of our time developing Rails and iOS apps. There's a joke to be made about how our idea of a tropical vacation is swimming with Postgres elephants and MySQL dolphins where the Amazon meets the DigitalOcean, but we're not going to make it.
+
+> **Frontend**
+> Whether it's a web, mobile, or site-specific deployment, the presentation layer usually includes some combination of CSS3, HTML5, and JavaScript. We're big fans of Ember.js and use it whenever we can.
+
+
+### What interns look like
+
+> You're an aspiring developer who's excited to learn and smarter than you give yourself credit for. You have favorite tools, but you understand that sometimes they just aren't the right ones for the job. You're a good communicator who enjoys teamwork, and for whom honesty and accountability come naturally. You're passionate about the exciting stuff and fully aware that sometimes it's a bit of a slog getting there. And you're really, really good at what you
 
 
 
