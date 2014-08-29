@@ -1139,7 +1139,43 @@ Located in ?
 > * Familiarity working in MVC frameworks.
 > * Experience using a Javascript MVC Library.
 > * Familiarity with LESS or SASS preprocessing.
-> * Experience with open source CMS packages (WordPress, Drupal, etc.)
-> * Working knowledge of various email marketing platforms
-> * Experience with version control systems such as SVN, CVS and GIT
-> * Knowledge of analytics code and implemen
+> * Experience with open source CMS packages (WordPress, Drupal, et cetera).
+> * Working knowledge of various email marketing platforms.
+> * Experience with version control systems such as SVN, CVS and GIT.
+> * Knowledge of analytics code and implemenentation.
+
+
+## WebLively
+
+[Website](https://www.weblively.com/)
+
+Remote Work
+
+Located in Portland, OR
+
+> WebLively is the Collaborative Wellness Network where all professionals can grow their business and everyone can own their health.
+
+### The stack
+
+* HTML5
+* CSS3
+* LESS
+* Javascript
+* jQuery
+* Ruby
+* [Puppet Enterprise](http://puppetlabs.com/puppet/puppet-enterprise)
+* [PHP](http://php.net/)
+* [CodeIgniter](https://ellislab.com/codeigniter)
+* [MySQL](http://www.mysql.com/)
+* [Linux](http://en.wikipedia.org/wiki/Linux)
+
+
+### What interns will work on
+
+* Work closely with development team to plan, develop, debug, test, and deploy.
+
+### What interns look like
+
+> You are a talented web developer who is driven to learn everything about building a web application. You should be familiar with database queries, MVC application architecture, client­side scripting, and implementing site layouts and design.
+
+> Extra bonus points if you are passionate about health and wellness, and are excited by the WebLively vision!
