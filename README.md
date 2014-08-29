@@ -1017,6 +1017,63 @@ Located in Portland, OR
 > * Demonstrated passion for creating useful software application
 
 
+## Top Level Design
+
+[Website](http://nic.wiki/about/top-level-design-llc/)
+
+Located in Portland, OR
+
+> Top Level Design is the new registry for the .wiki and .ink top level domains (TLDs).  The new TLDs are just like .com, .net, and .org except … they are new and different!  We are also in the running for several other new TLDs.  We are located in downtown Portland and have been in business for 2 years with a small staff comprised mostly of marketing, policy and wiki folks.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* jQuery
+* Coffeescript
+* Ruby
+* Ruby on Rails
+* [ActiveAdmin](http://activeadmin.info/)
+* [MySQL](http://www.mysql.com/)
+* [Docker](https://www.docker.com/)
+* [Amazon Web Services](http://aws.amazon.com/)
+
+### What interns will work on
+
+> You will be working with an experienced rails and devops mentor on a rails 4 dashboard application that manages and provisions a large number of Mediawiki instances for our WikiFarm.  Mediawiki is the engine that runs Wikipedia.
+
+> **Skills You’ll Build**
+
+> **Frontend**
+
+> * HTML/CSS
+> * Javascript/Coffeescript
+> * ActiveAdmin
+> * Twitter Bootstrap
+> * jQuery sparklines and friends
+
+> **Backend**
+
+> * Rails 4
+> * Rspec 3
+> * MySQL
+> * Linux (Ubuntu 12.04 and 14.04)
+> * Docker
+> * AWS (primarily ec2 and s3)
+
+> **Linux server administration**
+
+> * ssh, sudo, /etc, apt, chef, packer, cron, etc
+> * capistrano, whenever, thor
+
+
+
+### What interns look like
+
+> * Entrepreneurial, thrives in a startup environment
+> * Fully engages before and after decisions are made
+> * Handles him/herself professionally
 
 
 
