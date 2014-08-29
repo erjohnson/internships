@@ -26,7 +26,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Revelation](#revelation)
 * [SBI Software](#sbi-software)
 * [Scratch-It](#scratch-it)
-* Solid
+* [Solid](#solid)
 * SpendWell
 * Stack
 * Strategic Marketing
@@ -731,7 +731,42 @@ Located in Portland, OR
 
 ### What interns look like
 
-> Scratch-it is looking for software developer Interns interested getting hands on experience working with agile techniques and paired progra
+> Scratch-it is looking for software developer Interns interested getting hands on experience working with agile techniques and paired programming.
+
+
+## Solid
+
+[Website]()
+
+Located in
+
+> Solid builds apps for creative companies.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [Node.js](http://nodejs.org/)
+
+
+### What interns will work on
+
+> As an intern at Solid you would be inserted as a developer going through our standard on-boarding process. This program typically takes 3-6 months and is very intense. We believe that the best way to learn is to write A LOT of code and have it reviewed frequently. We also believe that starting from scratch and writing a useful program is key.
+
+* Training on how to run agile projects
+* Experience with full stack JavaScript and mobile development
+* Exposure to tools like Jira, Gitlab, Github
+* Exposure to systems running software like web servers, database servers
+* Opportunity to work on open source projects
+* Participate in developer meetings and code reviews
+
+
+### What interns look like
+
+> At Solid we are collaborative, smart, tenacious and creative. We never stop practicing at our craft, because we are starting to get good at it. We’re looking for aspiring developers that have an interest in serious JavaScript development.
+
+> You should be strong with HTML5/CSS3, JavaScript (Node.js) and/or native mobile development. You should be interested in TDD, code review, best practices and learning more in your internship than some employees learn in 2 years.
 
 
 
