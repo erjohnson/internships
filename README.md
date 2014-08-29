@@ -27,7 +27,7 @@ Information on internships offered at Epicodus Summer 2014
 * [SBI Software](#sbi-software)
 * [Scratch-It](#scratch-it)
 * [Solid](#solid)
-* SpendWell
+* [SpendWell Health](#spendwell-health)
 * Stack
 * Strategic Marketing
 * Switchboard
@@ -770,7 +770,30 @@ Located in Portland, OR
 > You should be strong with HTML5/CSS3, JavaScript (Node.js) and/or native mobile development. You should be interested in TDD, code review, best practices and learning more in your internship than some employees learn in 2 years.
 
 
+## SpendWell Health
 
+[Website](https://www.spendwellhealth.com/)
+
+Located in Portland, OR
+
+> SpendWell Health’s vision is to revolutionize the way people shop and pay for health care services.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* Ruby
+
+
+### What interns will work on
+
+* Work with 8 person development team, associated product development and user experience team to complete assignments.
+* Develop components for e-commerce store and provider portal.
+
+### What interns look like
+
+> ...
 
 
 
