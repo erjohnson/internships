@@ -22,7 +22,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Orchestrate](#orchestrate)
 * [Outdoor Project](#outdoor-project)
 * [Paydici](#paydici)
-* Read the Docs
+* [Read the Docs](#read-the-docs)
 * Revelation
 * SBI Software
 * Scratch-It
@@ -605,6 +605,38 @@ Located in Portland, OR
 ### What interns look like
 
 > We’re a close-knit team looking for developers with a strong work-ethic, sense of humor, and eagerness to learn.
+
+
+## Read the Docs
+
+[Website](https://readthedocs.org/)
+
+Located in Portland, OR
+
+> Read the Docs builds and hosts documentation for software projects, creating usable, searchable, and up to date docs for your users.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [Python](https://www.python.org/)
+* [Django](https://www.djangoproject.com/)
+
+
+### What interns will work on
+
+* Update documentation.
+* Improve user experience.
+* Improve search with Elastic Search.
+* Work on Python/Django backend.
+* Assist in deployment with Salt/Fabric.
+* Contribute to open source projects.
+
+
+### What interns look like
+
+> An intern would be able to do a lot of different things. We have work around updating our documentation, improving our user experience, improving search with Elastic Search, Python/Django backend systems, deployment with Salt/Fabric, and lots of other tidbits. The source code is available here: https://github.com/rtfd/readthedocs.org
 
 
 
