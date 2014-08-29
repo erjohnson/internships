@@ -830,8 +830,32 @@ Located in Portland, OR
 > You're an aspiring developer who's excited to learn and smarter than you give yourself credit for. You have favorite tools, but you understand that sometimes they just aren't the right ones for the job. You're a good communicator who enjoys teamwork, and for whom honesty and accountability come naturally. You're passionate about the exciting stuff and fully aware that sometimes it's a bit of a slog getting there. And you're really, really good at what you
 
 
+## Strategic Marketing
+
+[Website](http://www.strategicmarketinginc.com/)
+
+Located in Portland, OR
+
+> Strategic Marketing offers a fully-featured office solution for real estate professionals in the cloud. It provides everything from website management, MLS/IDX integration, marketing, CRM (customer relationship management) or contact management, fully-integrated email, and much, much more!
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [PHP](http://php.net/)
+* [MySQL](http://www.mysql.com/)
+* [Apache](http://httpd.apache.org/)
+* [Linux](http://en.wikipedia.org/wiki/Linux)
 
 
+### What interns will work on
+
+> Our platform is supported by a cloud-based Linux/Apache/MySQL/PHP (LAMP) stack, as well as a whole heap of Javascript tying everything together.  It uses a wide variety of libraries, some developed in-house and other dropped in 3rd party.  We have a very large highly-relational MySQL database supplemented by Memcache.  We use AJAX heavily throughout the application, so you'll get a ton of exposure from the front-end down to the database!
+
+### What interns look like
+
+> Strategic Marketing is looking for individuals who are motivated and have a strong will to learn.  We enjoy working with developers who are creative and like to push boundaries.  Real estate experience or knowledge is not required but is a plus!
 
 
 
