@@ -19,7 +19,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Notch8](#notch8)
 * [NTEN](#nten)
 * [Nutmeg](#nutmeg)
-* Orchestrate
+* [Orchestrate](#orchestrate)
 * Outdoor Project
 * Paydici
 * Read the Docs
@@ -504,6 +504,43 @@ Located in Portland, OR
 
 > *Attention to detail and timelines*  Don’t worry, we’ll work with you to make sure deadlines are reasonable!
 
+
+## Orchestrate
+
+[Website](http://orchestrate.io/)
+
+Located in Portland, OR
+
+Remote work available.
+
+> Orchestrate is a database infrastructure company that exposes the features of multiple databases via a simple JSON REST API.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* Ruby
+* Ruby on Rails
+* Python
+* Node.js
+* Middlemanapp
+* Heroku
+
+
+### What interns will work on
+
+* Improve and write documentation for Orchestrate.
+* Build a sample Ruby on Rails application on Orchestrate, writing a tutorial to describe your process.
+* Port example applications to other languages, giving you the chance to explore how your Ruby knowledge transfers to Python or Node.js.
+* Implement new documentation features using JavaScript and Middlemanapp to generate interactive, static web pages.
+* Create technical benchmarks for Orchestrate features, potentially comparing to other technologies.
+* Integrating the Heroku button into sample applications across multiple programming languages.
+
+
+### What interns look like
+
+> We’re looking for developers that not only think in terms of the full stack, but the full experience. Our customers are developers of all levels of knowledge and our documentation needs to meet them at their level. Successful interns will be eager to contribute front end, back end, as well as written communication skills to help other developers be more productive and creative.
 
 
 
