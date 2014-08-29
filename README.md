@@ -1179,3 +1179,77 @@ Located in Portland, OR
 > You are a talented web developer who is driven to learn everything about building a web application. You should be familiar with database queries, MVC application architecture, client­side scripting, and implementing site layouts and design.
 
 > Extra bonus points if you are passionate about health and wellness, and are excited by the WebLively vision!
+
+
+## Windsor
+
+[Website](http://www.windsorsolutions.com/)
+
+Located in ?
+
+> Windsor Solutions, Inc. is one of the nation's leading consultancies specializing in developing environmental information systems. We work with state and local government agencies across the United States to support the implementation of environmental regulatory programs through the use of innovative technology solutions.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [Angular.js](https://angularjs.org/)
+
+
+### What interns will work on
+
+* Leverage HTML, CSS, and JavaScript libraries to improve and build mobile-friendly sites.
+* Collaborate on the design and requirements of fully functional systems.
+
+
+### What interns look like
+
+> **General Skills**
+
+> * Good written and verbal communications skills
+> * Excellent interpersonal skills
+> * Experience working effectively in a team environment
+
+> **Analytical Skills**
+
+> * User Experience Design
+> * Responsive Design
+> * Mobile website design
+> * Use cases
+
+> **Technical Skills**
+
+> * HTML (including HTML5)
+> * CSS
+> * JavaScript/jQuery/Ajax
+> * Browser compatibility (IE9+, Chrome, FF, IOS/Android browsers)
+> * AngularJS
+> * REST
+
+
+## WorldState
+
+[Website](http://www.worldstateapp.com/)
+
+Located in
+
+> WorldState is a platform that is trying to engage 18-24 year olds with news.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* Ruby
+* Ruby on Rails
+
+
+### What interns will work on
+
+* Work on Ruby on Rails backend.
+* Improve iOS frontend.
+
+### What interns look like
+
+> ...
