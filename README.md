@@ -968,14 +968,53 @@ Located in Portland, OR
 > * Web Application Engineering
 > * Production and Project Management
 
-
-
 ### What interns look like
 
 > ...
 
 
+## Thetus
 
+[Website](http://www.thetus.com/)
+
+Located in Portland, OR
+
+> Founded in 2003, Thetus is a downtown software company that is just coming into its prime.  Our passion is helping others analyze and solve their real-world, complex problems, and so we design, develop and deliver a model-enabled, enterprise software solution to allow people to critically examine their complex challenges and risks via modeling and analysis.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [Jira](https://www.atlassian.com/software/jira)
+* [Confluence](https://www.atlassian.com/software/confluence)
+* [Swagger](https://helloreverb.com/developers/swagger)
+* [IntelliJ Idea](http://www.jetbrains.com/idea/)
+* [Subversion](https://subversion.apache.org/)
+
+
+### What interns will work on
+
+* Perform front-end project work alongside development team.
+* Learn the Thetus software development process.
+* Plan your work.
+* Improve and maintain existing code.
+* Document code with Swagger or other auto-doc generation tools.
+* Work with tools such as Intellij Idea, Git, Subversion, Jira, and Confluence.
+* Track progress on stories in Jira and communicate progress effectively.
+* Pair program with members of your scrum team.
+* Work effectively as a member of a cross-functional product team.
+
+### What interns look like
+
+> You are eager to jump into a cross-functional software development team and put your knowledge JavaScript + HTML +CSS, critical thinking skills, and creativity into action! If these and the following characteristics describe you, then you will fit in well at Thetus!
+
+> * Highly collaborative, adaptable to change
+> * Effective communicator
+> * Detail-oriented
+> * Positive and pragmatic
+> * Creative problem solver
+> * Demonstrated passion for creating useful software application
 
 
 
