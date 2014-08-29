@@ -675,7 +675,34 @@ Located in Portland, OR
 > We are looking for front and back-end developers who not only care about the code they write  but the ultimate solution from the beginning to the end. They will get experience working within a team environment to deploy new features, fix bugs and add to the positive culture of the office.
 
 
+## SBI software
 
+[Website](http://www.sbiteam.com/)
+
+Located in Portland, OR
+
+> SBI software is a growing company that provides enterprise level software to commercial growers.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [C#](http://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+* [.NET](http://en.wikipedia.org/wiki/.NET_Framework)
+* [ASP.NET](http://www.asp.net/)
+* [Win Forms](http://msdn.microsoft.com/en-us/library/dd30h2yb(v=vs.110).aspx)
+* SQL
+* [Crystal Reports](http://www.crystalreports.com/)
+* [Access](http://office.microsoft.com/en-us/access/)
+
+### What interns will work on
+
+* Work alongside web development team to make things.
+
+### What interns look like
+
+> We would be looking for the potential interns to work alongside our web development team and bring what they are learning to the table and also learn from our experienced and talented web development team. We need this to be a committed group that will show up when they say they will and commit to making themselves a part of the team and not simply wait to be asked to do things; we need self starters who can take minimal direction and makes something out of it. That being said, we understand this is an internship and will do all we can to make the interns feel welcome and engaged.
 
 
 
