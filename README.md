@@ -469,3 +469,48 @@ Located in
 ### What interns look like
 
 > We’re looking for a team that is happy to work independently to get a working product out the door. This is a nice, small-ish project you can own! We don’t have any true in-house developers but we do have a whole community you could lean on for help. You will need to be comfortable finding ways to answer your own technical questions.
+
+
+## nutmeg
+
+[Website](http://thisisnutmeg.com/)
+
+Located in Portland, OR
+
+> Nutmeg is our app and it’s full of awesome gifs ready to be whipped at your family, friends, classmates and frenemies via the normal text messaging service you already use every day.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [PHP](http://php.net/)
+* [Objective-C](http://en.wikipedia.org/wiki/Objective-C)
+
+
+### What interns will work on
+
+* Work on mobile applications and micro-sites.
+
+### What interns look like
+
+> Anyone interested in expanding to mobile while also owning some fun, relatively easy micro-site projects would be great. I asked about splitting the interns, since our web-based work isn't enough to keep two people occupied for a few weeks, but if they're keen on diving into mobile then we can definitely find enough work for them. And we’re kicking around API ideas.
+
+> Prefer people with a design eye. The micro-site will be for gif submissions  and (design wise) in the vein of  slick, minimal style of [ZombieCorp’s](http://www.zombiecorp.com/) ecosystem ([Devour](http://devour.com/) [Uncrate](http://uncrate.com/)) and [VRASA](http://www.vrasa.com/) ([Milk n’ Sugar Goldswag](http://milknsugar.com/)).
+
+> *Motivated self-starter*  We will be right there to help if you ever need it, but you’ll be owning your work.
+
+> *Able to talk, willing to argue*  An ability to articulate and defend your ideas in a group setting is crucial. It’s your creation so you’d better be up for defending it!
+
+> *Attention to detail and timelines*  Don’t worry, we’ll work with you to make sure deadlines are reasonable!
+
+
+
+
+
+
+
+
+
+
+
