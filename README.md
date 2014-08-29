@@ -20,7 +20,7 @@ Information on internships offered at Epicodus Summer 2014
 * [NTEN](#nten)
 * [Nutmeg](#nutmeg)
 * [Orchestrate](#orchestrate)
-* Outdoor Project
+* [Outdoor Project](#outdoor-project)
 * Paydici
 * Read the Docs
 * Revelation
@@ -543,6 +543,38 @@ Remote work available.
 > We’re looking for developers that not only think in terms of the full stack, but the full experience. Our customers are developers of all levels of knowledge and our documentation needs to meet them at their level. Successful interns will be eager to contribute front end, back end, as well as written communication skills to help other developers be more productive and creative.
 
 
+## Outdoor Project
+
+[Website](http://www.outdoorproject.com/)
+
+Located in
+
+> Outdoor Project’s goal is to create the most comprehensive online resource and the largest community for outdoor adventure and travel, with a plan to revolutionize the way that people find, search for and share their outdoor experience.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* JQuery
+* [PHP](http://php.net/)
+* [Drupal](https://www.drupal.org/)
+
+
+### What interns will work on
+
+* Build social integration features to engage the Outdoor Project community.
+* Increase front-end performance, reduce client-side load times, et cetera.
+* Improve user experience for Drupal back-end, allow general community to contribute adventure photos, trip reports, and more.
+* Use location data and adventure preferences to customize user experience.
+
+
+### What interns look like
+
+> * Drupal experience including general understanding of Drupal infrastructure and knowledge of major contributed modules.
+> * Experience with HTML, CSS, Javascript, PHP, jQuery
+> * Flexibility, energy, and motivation required of a startup environment
+> * Outdoors enthusiast
 
 
 
