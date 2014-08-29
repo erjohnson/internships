@@ -21,7 +21,7 @@ Information on internships offered at Epicodus Summer 2014
 * [Nutmeg](#nutmeg)
 * [Orchestrate](#orchestrate)
 * [Outdoor Project](#outdoor-project)
-* Paydici
+* [Paydici](#paydici)
 * Read the Docs
 * Revelation
 * SBI Software
@@ -522,9 +522,9 @@ Remote work available.
 * Javascript
 * Ruby
 * Ruby on Rails
-* Python
-* Node.js
-* Middlemanapp
+* [Middlemanapp](http://middlemanapp.com/)
+* [Python](https://www.python.org/)
+* [Node.js](http://nodejs.org/)
 * Heroku
 
 
@@ -547,7 +547,7 @@ Remote work available.
 
 [Website](http://www.outdoorproject.com/)
 
-Located in
+Located in Portland, OR
 
 > Outdoor Project’s goal is to create the most comprehensive online resource and the largest community for outdoor adventure and travel, with a plan to revolutionize the way that people find, search for and share their outdoor experience.
 
@@ -575,6 +575,61 @@ Located in
 > * Experience with HTML, CSS, Javascript, PHP, jQuery
 > * Flexibility, energy, and motivation required of a startup environment
 > * Outdoors enthusiast
+
+
+## Paydici
+
+[Website](https://www.paydici.com/)
+
+Located in Portland, OR
+
+> At Paydici, we’re building a comprehensive, full-featured billing solution and payments platform. Our application helps companies large and small to streamline their processes with accounting software integration and statement printing to payment processing and check handling.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* Ruby
+* Ruby on Rails
+
+
+### What interns will work on
+
+* Design, build, test, deploy and generally help out to make Paydici web app better.
+* Perform bug fixes
+* Collaborate on new features.
+* Work on public facing pages.
+* Maintain and improve internal staff applications.
+
+### What interns look like
+
+> We’re a close-knit team looking for developers with a strong work-ethic, sense of humor, and eagerness to learn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
