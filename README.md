@@ -1067,8 +1067,6 @@ Located in Portland, OR
 > * ssh, sudo, /etc, apt, chef, packer, cron, etc
 > * capistrano, whenever, thor
 
-
-
 ### What interns look like
 
 > * Entrepreneurial, thrives in a startup environment
@@ -1076,6 +1074,37 @@ Located in Portland, OR
 > * Handles him/herself professionally
 
 
+## Trial Guides
+
+[Website](http://www.trialguides.com/)
+
+Located in Portland, OR
+
+> Trial Guides was established in 2004 as a legal media company that helps civil plaintiff's lawyers win. We bring trial lawyers cutting edge trial strategies by the nation's leading trial lawyers, jury consultants and experts.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* Ruby
+* Ruby on Rails
+* [Sinatra](http://www.sinatrarb.com/)
+* [RubyMotion](http://www.rubymotion.com/)
+* [Spree](http://spreecommerce.com/)
+* [Wombat](https://wombat.co/)
+
+
+### What interns will work on
+
+* Assist in migrating existing backend to Spree Commerce.
+* Develop improvements to some of Spree’s extensions that need additional functionality.
+* Create new Wombat integrations for external services.
+* Implement new shipping system consisting of some Rails engines, Sinatra applications, and an iOS application (currently written in RubyMotion) to interface with Spree’s JSON REST API’s.
+
+### What interns look like
+
+> We need back-end developers who are comfortable with a wide variety of technologies and who are interested walking away with a batch of new Open Source contributions to Spree and a functioning business system responsible for daily operations under their belts.
 
 
 
