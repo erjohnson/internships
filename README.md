@@ -29,8 +29,8 @@ Information on internships offered at Epicodus Summer 2014
 * [Solid](#solid)
 * [SpendWell Health](#spendwell-health)
 * [Stack](#stack)
-* Strategic Marketing
-* Switchboard
+* [Strategic Marketing](#strategic-marketing)
+* [Switchboard](#switchboard)
 * Tech 2000
 * The Program
 * Thetus
@@ -858,6 +858,33 @@ Located in Portland, OR
 > Strategic Marketing is looking for individuals who are motivated and have a strong will to learn.  We enjoy working with developers who are creative and like to push boundaries.  Real estate experience or knowledge is not required but is a plus!
 
 
+## Switchboard
+
+[Website](https://switchboardhq.com/)
+
+Located in Portland, OR
+
+> Switchboard helps build strong community networks by providing a simple and safe environment to seek and share advice, skills, and sundry opportunities. You can think of us as a private, non-creepy Craigslist that is used mostly by colleges.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* [D3.js](http://d3js.org/)
+
+
+### What interns will work on
+
+* Build internal app from start to finish.
+* Improve user onboarding and education.
+* Create data visualizations using D3.js.
+* Fix small bugs.
+* Develop new features for Switchboard.
+
+### What interns look like
+
+> ...
 
 
 
