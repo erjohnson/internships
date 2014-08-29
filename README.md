@@ -23,8 +23,8 @@ Information on internships offered at Epicodus Summer 2014
 * [Outdoor Project](#outdoor-project)
 * [Paydici](#paydici)
 * [Read the Docs](#read-the-docs)
-* Revelation
-* SBI Software
+* [Revelation](#revelation)
+* [SBI Software](#sbi-software)
 * Scratch-It
 * Solid
 * SpendWell
@@ -622,13 +622,16 @@ Located in Portland, OR
 * Javascript
 * [Python](https://www.python.org/)
 * [Django](https://www.djangoproject.com/)
+* [Elastic Search](http://www.elasticsearch.org/)
+* [Salt](http://docs.saltstack.com/en/latest/)
+* [Fabric](http://www.fabfile.org/)
 
 
 ### What interns will work on
 
 * Update documentation.
 * Improve user experience.
-* Improve search with Elastic Search.
+* Optimize search with Elastic Search.
 * Work on Python/Django backend.
 * Assist in deployment with Salt/Fabric.
 * Contribute to open source projects.
@@ -639,9 +642,37 @@ Located in Portland, OR
 > An intern would be able to do a lot of different things. We have work around updating our documentation, improving our user experience, improving search with Elastic Search, Python/Django backend systems, deployment with Salt/Fabric, and lots of other tidbits. The source code is available here: https://github.com/rtfd/readthedocs.org
 
 
+## Revelation
+
+[Website](http://www.revelationglobal.com/)
+
+Located in Portland, OR
+
+> Revelation creates a mobile and web platform for research communities and qualitative research studies that enables companies to understand the ground truth of customer experiences.
+
+### The stack
+
+* HTML5
+* CSS3
+* Javascript
+* jQuery
+* [Ember.js](http://emberjs.com/)
+* [D3.js](http://d3js.org/)
+* Ruby
+* Ruby on Rails
 
 
+### What interns will work on
 
+* Help plan, develop, debug, and deploy production code.
+* Work with Ruby on Rails applications.
+* New applications built with Ember.js and served by APIs in Ruby.
+* Build data visualization tools.
+
+
+### What interns look like
+
+> We are looking for front and back-end developers who not only care about the code they write  but the ultimate solution from the beginning to the end. They will get experience working within a team environment to deploy new features, fix bugs and add to the positive culture of the office.
 
 
 
