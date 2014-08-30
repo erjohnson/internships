@@ -302,6 +302,8 @@ Located in Portland, OR
 
 [Website](http://www.luckysteps.org/)
 
+You'll work at Epicodus
+
 Located in Portland, OR
 
 > LuckySteps is a corporate wellness SaaS to motivate, track, and reward exercise using a fun, social game.
@@ -312,6 +314,7 @@ Located in Portland, OR
 * CSS3
 * Javascript
 * jQuery
+* Ruby
 
 ### What interns will work on
 
@@ -798,7 +801,7 @@ Located in Portland, OR
 
 ## Stack
 
-Cannot Find Site.
+[Website](http://wearestack.com/)
 
 Located in Portland, OR
 
@@ -1111,7 +1114,7 @@ Located in Portland, OR
 
 [Website](https://www.unigo.com/)
 
-Located in ?
+Located in Lake Oswego, OR
 
 > Unigo helps students identify colleges that match their ideal learning style, course work, and career goals.
 
@@ -1149,7 +1152,7 @@ Located in ?
 
 [Website](https://www.weblively.com/)
 
-Remote Work
+You'll work at Epicodus
 
 Located in Portland, OR
 
@@ -1185,7 +1188,7 @@ Located in Portland, OR
 
 [Website](http://www.windsorsolutions.com/)
 
-Located in ?
+Located in Portland, OR
 
 > Windsor Solutions, Inc. is one of the nation's leading consultancies specializing in developing environmental information systems. We work with state and local government agencies across the United States to support the implementation of environmental regulatory programs through the use of innovative technology solutions.
 
@@ -1232,7 +1235,7 @@ Located in ?
 
 [Website](http://www.worldstateapp.com/)
 
-Located in
+Located in Portland, OR
 
 > WorldState is a platform that is trying to engage 18-24 year olds with news.
 
