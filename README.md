@@ -6,6 +6,7 @@ Information on internships offered at Epicodus Summer 2014
 ## Companies
 
 * [Advisicon](#advisicon)
+* [AirAdvice](#airadvice)
 * [BlkDot](#blkdot)
 * [Cinder](#cinder)
 * [Droplr](#droplr)
@@ -72,6 +73,36 @@ Located in Vancouver, WA
 > An ideal intern is smart, independent, and eager to learn. Interns don’t need to know the exact languages we develop in before they arrive (although that would be a bonus), but they should be familiar with the MVC design pattern. Ideal interns will understand the principles behind strongly typed, functional, and object-oriented development.
 
 > Interns should display a passion for making awesome things and a knack for making them better through iteration, user testing, and refactoring. Elegance is idolized, but functional is realistic.
+
+## AirAdvice
+
+[Website](http://www.airadvice.com/)
+
+Located in Portland, OR
+
+> AirAdvice facilitates lower cost, healthier, and more comfortable buildings and homes by improving energy efficiency and building performance.
+
+### The stack
+
+* Rails
+* PostgreSQL
+* Git
+* Linux (Ubuntu)
+* Jenkins
+* Docker
+* Ansible
+* CoffeeScript
+* Bootstrap
+* Objective-C
+
+### What interns will work on
+
+> One example project we'd love to have you tackle involves the use of OCR (optical character recognition) technology. Customers can enter utility bill information on their own, or they can email us their bills.... Both methods are done manually and are incredibly tedious. Implementing the ability to automate these data collection processes will elevate you to hero status in the eyes of thousands of users.
+
+
+### What interns look like
+
+> The ideal candidate will be passionate, love Ruby, be self-motivated, inquisitive, open-minded and enjoys innovatively solving complex problems. Comfort with Ruby is a given. You'll also need to own a Mac. Knowledge of Objective-C will prove to be highly beneficial, but it's okay if you don't already know it.
 
 
 ## BlkDot
